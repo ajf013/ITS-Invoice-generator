@@ -4,7 +4,7 @@
 An Invoice creator project built with React. Add itemized items, configure quantity, prices, tax rates and discounts. Download Invoice as PDFs to your device. Uses [jspdf-react](https://www.npmjs.com/package/jspdf-react) to capture the data from the modal and covert it from canvas -> pdf.
 
 ### Live Demo
-https://itsinvoicegenerator.netlify.app/
+https://itsinvoicegenerator-react.netlify.app/
 
 ### Screenshots
 ![Screenshot](https://i.ibb.co/TKNKjVL/Screenshot-from-2022-07-28-02-39-30.png)
